@@ -1,5 +1,5 @@
 title = "Tower Running USA"
-baseURL = "https://towerrunningusa.com"
+baseURL = "http://towerrunningusa.org"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -18,7 +18,7 @@ enableRobotsTXT = true
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
-  facebook = "https://facebook.com/towerrunningusa"
+  facebook = "https://www.facebook.com/groups/1531051220545691"
   twitter = ""
   instagram = "https://instagram.com/TowerRunningUSA"
   youtube = ""

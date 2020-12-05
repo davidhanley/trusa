@@ -2,7 +2,6 @@
 title: "Calendar"
 date: 2020-12-01T19:22:31-07:00
 tags: []
-featured_image: ""
 description: ""
 ---
 
