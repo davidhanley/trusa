@@ -3,10 +3,11 @@ title: "TRUSA home"
 date: 2020-12-01T19:18:17-07:00
 tags: []
 description: ""
+featured_image: "images/Chicago_skyline_from_Shedd_Aquarium_2005.jpg"
 ---
 
 
-Welcome to the home of Towerrunning USA! 
+Welcome to the home of Towerrunning USA!
 
 Stairclimbing (or towerrunning) is becoming an increasingly popular sport with over 100 races held annually across the United States. Among the goals of Towerrunning USA:
 
@@ -24,4 +25,5 @@ Special note for race scoring: To have a race entered into our scoring system th
 
 We will automatically score all races in our high points race list, and will also score all other races whose results are received in this format.
 
+</div>
 
