@@ -7,8 +7,6 @@ featured_image: "images/Chicago_skyline_from_Shedd_Aquarium_2005.jpg"
 ---
 
 
-Welcome to the home of Towerrunning USA!
-
 Stairclimbing (or towerrunning) is becoming an increasingly popular sport with over 100 races held annually across the United States. Among the goals of Towerrunning USA:
 
 + Promoting stairclimbing as a healthy form of exercise
